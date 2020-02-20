@@ -1,3 +1,4 @@
+// Q : https://www.codechef.com/HCS12019/problems/SETH0006
 #include <bits/stdc++.h>
 using namespace std;
 

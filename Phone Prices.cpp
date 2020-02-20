@@ -1,3 +1,4 @@
+//Q : https://www.codechef.com/OCT19B/problems/S10E
 #include<iostream>
 #include<vector>
 using namespace std;

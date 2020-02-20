@@ -1,3 +1,4 @@
+// Q : https://www.codechef.com/OCT19B/problems/SAKTAN
 #include <iostream>
 using namespace std;
 
