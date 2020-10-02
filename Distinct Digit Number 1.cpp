@@ -1,4 +1,16 @@
-l ; i <= r ; i++)
+// Q : https://www.codechef.com/HCS12019/problems/SETH0006
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int l, r, x;
+    bool atleastOneXfound = false;
+
+    vector<bool> digits(10, false);
+
+    cin >> l >> r;
+    for(int i = l ; i <= r ; i++)
     {
       x = i;
 
@@ -10,24 +22,6 @@ l ; i <= r ; i++)
           break;
         x = x / 10;
       }
-      if(x == 0)
-      {
-        cout << i << " ";
-        if(!atleastOneXfound)
-        {
-            atleastOneXfound = 
-      if(x == 0)
-      {
-        cout << i << " ";
-        if(!atleastOneXfound)
-        {
-            atleastOneXfound = 
-      if(x == 0)
-      {
-        cout << i << " ";
-        if(!atleastOneXfound)
-        {
-            atleastOneXfound = 
       if(x == 0)
       {
         cout << i << " ";
