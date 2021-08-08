@@ -1,2 +1,2 @@
-# codecheffsolutions
-This repo. contains my codechef problem solutions. Do checkout my profile : https://www.codechef.com/users/wasit
+># codechefsolutions repo
+  * Includes my CodeChef problem submissions, mostly written in Java!!
