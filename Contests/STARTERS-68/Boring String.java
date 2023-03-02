@@ -4,7 +4,7 @@
  * @since 07-DEC-2022
  */
 // Question: https://www.codechef.com/START68C/problems/BORSTR
-// P.S : wasn't able to submit in contest (may get tle, not sure of it as of now)
+// P.S: wasn't able to submit in contest (may get tle, not sure of it as of now)
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;

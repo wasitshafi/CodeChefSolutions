@@ -1,4 +1,5 @@
-// URL : https://www.codechef.com/JAN21C/problems/DIVTHREE
+
+// URL: https://www.codechef.com/JAN21C/problems/DIVTHREE
 /**
  * @author WasitShafi
  * @since 02-JAN-2021
@@ -11,7 +12,7 @@ class Codechef {
 
     BigInteger max = sum.divide(BigInteger.valueOf(k));
     if (sum.compareTo(BigInteger.valueOf(k)) < 0) {
-        return 0 + "";
+      return 0 + "";
     } else if (max.compareTo(BigInteger.valueOf(d)) > 0) {
       return d + "";
     } else {
@@ -35,8 +36,7 @@ class Codechef {
       d = scanner.nextInt();
       sum = BigInteger.valueOf(0);
 
-      for (int i = 0; i < n; i++)
-      {
+      for (int i = 0; i < n; i++) {
         sum = sum.add(scanner.nextBigInteger());
       }
 

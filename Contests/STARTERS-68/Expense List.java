@@ -3,7 +3,7 @@
  * @author WasitShafi
  * @since 07-DEC-2022
  */
-// Question:https://www.codechef.com/START68C/problems/EXPENSES
+// Question: https://www.codechef.com/START68C/problems/EXPENSES
 import java.util.Scanner;
 
 public class Main {
